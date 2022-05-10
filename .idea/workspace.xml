@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebf448a-64ff-482b-94f4-f9e82a65fd40" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/syokudou.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="7ebf448a-64ff-482b-94f4-f9e82a65fd40" name="Changes" comment="Changes in 0509 &#10;#finish key-values">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2022_5_9_18_20___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2022_5_9_18_20___Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csvinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/csvinput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="csvinput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="syokudou" />
@@ -87,6 +85,21 @@
       <option name="presentableId" value="Default" />
       <updated>1652061733746</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1652092574598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652092574598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes in 0509 &#10;#finish key-values">
+      <created>1652092629741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652092629741</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +113,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/backendtest" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -111,5 +124,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <MESSAGE value="Changes in 0509 &#10;#finish key-values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in 0509 &#10;#finish key-values" />
   </component>
 </project>
